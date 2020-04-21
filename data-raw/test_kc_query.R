@@ -7,4 +7,6 @@ kc_upload()
 
 
 
-kc_create('l1','l111')
+kc_create('l1','l115')
+
+test <-kc_queryRefresh()

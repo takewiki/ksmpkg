@@ -73,6 +73,18 @@ kc_create <- function(parentName,name) {
 }
 
 
+#' 刷新知识分类查询结果,还是有问题
+#'
+#' @return 返回结果
+#' @export
+#'
+#' @examples
+#' kc_queryRefresh()
+kc_refresh <- function() {
+  rstudioapi::restartSession("kc_upload()")
+  # print(res)
+
+}
 
 
 

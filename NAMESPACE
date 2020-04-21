@@ -2,6 +2,11 @@
 
 export(kc_create)
 export(kc_query)
+export(kc_refresh)
 export(kc_upload)
+export(kn_create)
+export(kn_is_exist)
+export(kn_queryAll)
+export(kn_upload)
 import(reticulate)
 import(tsda)

@@ -1,7 +1,7 @@
 Package: ksmpkg
 Type: Package
 Title: knowledge management pkg for ksm
-Version: 0.1.1
+Version: 0.1.2
 Author: hulilei
 Maintainer: hulilei <hulilei@takewiki.com.cn>
 Description: More about what it does (maybe more than one line)
